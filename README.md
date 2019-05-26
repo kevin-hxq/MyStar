@@ -1,5 +1,5 @@
 # MyStar
-整理一下我的收藏(2019-05-26,截止到RefineDet-tensorflow) 
+整理一下我的收藏  (2019-05-26,截止到RefineDet-tensorflow) 
 
 
 
@@ -85,42 +85,6 @@
 
 
 
-## object detection
-
-[amusi / awesome-object-detection](https://github.com/amusi/awesome-object-detection) This is a list of awesome articles about object detection
-
-[facebookresearch / Detectron](https://github.com/facebookresearch/Detectron) FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet
-
-[sfzhang15 / RefineDet](https://github.com/sfzhang15/RefineDet) C++，Single-Shot Refinement Neural Network for Object Detection, CVPR, 2018
-
-[dengdan / seglink](https://github.com/dengdan/seglink) An Implementation of the seglink alogrithm in paper Detecting Oriented Text in Natural Images by Linking Segments
-
-[eragonruan / text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
-
-[MaybeShewill-CV / lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
-
-[shawshany / Lane_detection](https://github.com/shawshany/Lane_detection)
-
-[yang1688899 / CarND-Advanced-Lane-Lines](https://github.com/yang1688899/CarND-Advanced-Lane-Lines)
-
-[amusi / awesome-lane-detection](https://github.com/amusi/awesome-lane-detection)
-
-[wvangansbeke / LaneDetection_End2End](https://github.com/wvangansbeke/LaneDetection_End2End)
-
-[bonlime / keras-deeplab-v3-plus](https://github.com/bonlime/keras-deeplab-v3-plus)
-
-[sthalles / deeplab_v3](https://github.com/sthalles/deeplab_v3)
-
-[fyu / dilation](https://github.com/fyu/dilation) Dilated Convolution for Semantic Image Segmentation
-
-[leonndong / DeepLabV3-Tensorflow](https://github.com/leonndong/DeepLabV3-Tensorflow) Reimplementation of DeepLabV3
-
-[DrSleep / tensorflow-deeplab-resnet](https://github.com/DrSleep/tensorflow-deeplab-resnet)
-
-[rohitrango / automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection)
-
-
-
 ## CNN
 
 [weiaicunzai / awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) A curated list of deep learning image classification papers and codes
@@ -156,6 +120,41 @@
 [DeepScale / SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 
 
+
+
+## object detection
+
+[amusi / awesome-object-detection](https://github.com/amusi/awesome-object-detection) This is a list of awesome articles about object detection
+
+[facebookresearch / Detectron](https://github.com/facebookresearch/Detectron) FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet
+
+[sfzhang15 / RefineDet](https://github.com/sfzhang15/RefineDet) C++，Single-Shot Refinement Neural Network for Object Detection, CVPR, 2018
+
+[dengdan / seglink](https://github.com/dengdan/seglink) An Implementation of the seglink alogrithm in paper Detecting Oriented Text in Natural Images by Linking Segments
+
+[eragonruan / text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)
+
+[MaybeShewill-CV / lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+
+[shawshany / Lane_detection](https://github.com/shawshany/Lane_detection)
+
+[yang1688899 / CarND-Advanced-Lane-Lines](https://github.com/yang1688899/CarND-Advanced-Lane-Lines)
+
+[amusi / awesome-lane-detection](https://github.com/amusi/awesome-lane-detection)
+
+[wvangansbeke / LaneDetection_End2End](https://github.com/wvangansbeke/LaneDetection_End2End)
+
+[bonlime / keras-deeplab-v3-plus](https://github.com/bonlime/keras-deeplab-v3-plus)
+
+[sthalles / deeplab_v3](https://github.com/sthalles/deeplab_v3)
+
+[fyu / dilation](https://github.com/fyu/dilation) Dilated Convolution for Semantic Image Segmentation
+
+[leonndong / DeepLabV3-Tensorflow](https://github.com/leonndong/DeepLabV3-Tensorflow) Reimplementation of DeepLabV3
+
+[DrSleep / tensorflow-deeplab-resnet](https://github.com/DrSleep/tensorflow-deeplab-resnet)
+
+[rohitrango / automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection)
 
 
 ## OCR
