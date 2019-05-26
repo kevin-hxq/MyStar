@@ -7,6 +7,8 @@
 
 [apachecn / AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 
+[nnzhan / Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) Paper Lists for Graph Neural Networks
+
 [machinelearningmindset / machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)  Machine Learning Course with Python
 
 [MLEveryday / 100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) 100-Days-Of-ML-Code中文版
